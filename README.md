@@ -1,3 +1,3 @@
 # BuildBuzz
-Make a Buzz around your build
+Automate Creating a Buzz around your build
 Coming Soon...
